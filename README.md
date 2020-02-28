@@ -11,4 +11,4 @@
 <img src="./etc/lstm-autoencoder-clf.png">
 
 #### Transform Data for Reconstruction Error
-<img src="./etc/dataset-reconsturction.png" width="550px" >
+<img src="./etc/dataset-reconsturction.png" width="600px" >
